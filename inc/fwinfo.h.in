@@ -1,0 +1,14 @@
+#define FW_VERSION_MAJOR        %FW_VERSION_MAJOR%
+#define FW_VERSION_MINOR        %FW_VERSION_MINOR%
+#define FW_VERSION_REVISION     %FW_VERSION_REVISION%
+#define FW_VERSION              %FW_VERSION%
+#define FW_GIT_COMMIT           0x%GIT_COMMIT%
+#define FW_GIT_COMMIT_STR       "%GIT_COMMIT%"
+
+#define FW_BUILD_TIMESTAMP      %BUILD_TIMESTAMP%
+#define FW_BUILD_YEAR           %BUILD_YEAR%
+#define FW_BUILD_MONTH          %BUILD_MONTH%
+#define FW_BUILD_DAY            %BUILD_DAY%
+#define FW_BUILD_HOUR           %BUILD_HOUR%
+#define FW_BUILD_MINUTE         %BUILD_MINUTE%
+#define FW_BUILD_SECOND         %BUILD_SECOND%

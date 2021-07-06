@@ -1,0 +1,6 @@
+obj
+*.elf
+*.bin
+#*.hex
+*.py
+*.log
